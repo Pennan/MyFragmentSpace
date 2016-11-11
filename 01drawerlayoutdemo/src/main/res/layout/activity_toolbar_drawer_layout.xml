@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.np.drawerlayoutdemo.ToolbarDrawerLayoutActivity">
+
+    <include
+        android:id="@+id/include_toolbar"
+        layout="@layout/toolbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <android.support.v4.widget.DrawerLayout
+        android:id="@+id/drawer_layout_toolbar"
+        android:layout_width="match_parent"
+        android:layout_below="@id/include_toolbar"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:id="@+id/fl_toolbar_drawer_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+        <ListView
+            android:id="@+id/lv_toolbar_drawer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#9C27B0"
+            android:layout_gravity="left" />
+    </android.support.v4.widget.DrawerLayout>
+
+</RelativeLayout>

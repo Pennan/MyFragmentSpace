@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.np.coordinatorlayoutdemo.demo3.CoordinatorDemo3Activity">
+
+    <View
+        android:id="@+id/view_bead"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#E51C23"
+        app:layout_behavior=".demo2.HeadHideBehavior"/>
+
+    <View
+        android:id="@+id/view_body"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="200dp"
+        android:background="#009688"
+        app:layout_behavior=".demo2.TouchBehavior"/>
+
+    <View
+        android:id="@+id/view_flow"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="300dp"
+        android:background="#FF5722"
+        app:layout_behavior=".demo3.MoveFollowHeadBehavior"/>
+
+</android.support.design.widget.CoordinatorLayout>

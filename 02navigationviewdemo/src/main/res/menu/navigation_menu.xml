@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_menu_home"
+            android:title="nav_home"
+            android:checkable="true"
+            android:icon="@mipmap/icon1"/>
+        <item
+            android:id="@+id/nav_menu_book"
+            android:title="nav_book"
+            android:checkable="true"
+            android:icon="@mipmap/icon3"/>
+        <item
+            android:id="@+id/nav_menu_num"
+            android:title="nav_num"
+            android:checkable="true"
+            android:icon="@mipmap/icon4"/>
+        <item
+            android:id="@+id/nav_menu_setting"
+            android:title="nav_setting"
+            android:checkable="true"
+            android:icon="@mipmap/icon2"/>
+    </group>
+
+    <item android:title="Sub Items">
+        <menu>
+            <item
+                android:id="@+id/nav_menu_sub1"
+                android:title="nav_num"
+                android:checkable="true"
+                android:icon="@mipmap/icon4"/>
+            <item
+                android:id="@+id/nav_menu_sub2"
+                android:title="nav_setting"
+                android:checkable="true"
+                android:icon="@mipmap/icon2"/>
+        </menu>
+    </item>
+</menu>

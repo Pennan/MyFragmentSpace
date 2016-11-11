@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@mipmap/icon1"
+        android:title="nav_home"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@mipmap/icon3"
+        android:title="nav_book"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@mipmap/icon4"
+        android:title="nav_num"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@mipmap/icon2"
+        android:title="nav_setting"
+        app:showAsAction="never"/>
+</menu>

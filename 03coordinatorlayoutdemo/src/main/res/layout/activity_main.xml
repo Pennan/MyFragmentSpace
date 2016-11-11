@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.np.coordinatorlayoutdemo.MainActivity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="demo1"
+        android:id="@+id/button"
+        android:textAllCaps="false"
+        android:onClick="demo1Click"
+        android:layout_marginTop="37dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="demo2"
+        android:id="@+id/button2"
+        android:textAllCaps="false"
+        android:onClick="demo2Click"
+        android:layout_below="@+id/button"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="demo3"
+        android:id="@+id/button3"
+        android:textAllCaps="false"
+        android:onClick="demo3Click"
+        android:layout_below="@+id/button2"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>
