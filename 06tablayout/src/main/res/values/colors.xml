@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ActionBar 状态栏背景色 -->
+    <color name="colorPrimary">#125688</color>
+    <!-- 系统 状态栏背景色 -->
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="colorAccent">#c8e8ff</color>
+    <!-- ActionBar 状态栏字体色 -->
+    <color name="textColorPrimary">#FFFFFF</color>
+    <!-- window 背景色 -->
+    <color name="windowBackground">#FFFFFF</color>
+    <!-- 底部导航栏背景色 -->
+    <color name="navigationBarColor">#000000</color>
+</resources>
