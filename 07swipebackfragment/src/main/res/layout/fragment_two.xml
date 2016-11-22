@@ -1,0 +1,33 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#03A9F4">
+
+    <include
+        android:id="@+id/toolbar_two"
+        layout="@layout/toolbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#9C27B0"/>
+
+    <TextView
+        android:id="@+id/tv_two_content"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/toolbar_two"
+        android:gravity="center"
+        android:text="Two Pager"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btn_two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_two_content"
+        android:layout_centerHorizontal="true"
+        android:text="To Next Page!"
+        android:textAllCaps="false"/>
+
+</RelativeLayout>

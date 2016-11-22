@@ -5,6 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/01drawerlayoutdemo/01drawerlayoutdemo.iml" filepath="$PROJECT_DIR$/01drawerlayoutdemo/01drawerlayoutdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/02navigationviewdemo/02navigationviewdemo.iml" filepath="$PROJECT_DIR$/02navigationviewdemo/02navigationviewdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/03coordinatorlayoutdemo/03coordinatorlayoutdemo.iml" filepath="$PROJECT_DIR$/03coordinatorlayoutdemo/03coordinatorlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04appbarlayoutdemo/04appbarlayoutdemo.iml" filepath="$PROJECT_DIR$/04appbarlayoutdemo/04appbarlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05collapsingtoolbarlayoutdemo/05collapsingtoolbarlayoutdemo.iml" filepath="$PROJECT_DIR$/05collapsingtoolbarlayoutdemo/05collapsingtoolbarlayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06tablayout/06tablayout.iml" filepath="$PROJECT_DIR$/06tablayout/06tablayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07swipebackfragment/07swipebackfragment.iml" filepath="$PROJECT_DIR$/07swipebackfragment/07swipebackfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08daggerdemo/08daggerdemo.iml" filepath="$PROJECT_DIR$/08daggerdemo/08daggerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09annotationtest/09annotationtest.iml" filepath="$PROJECT_DIR$/09annotationtest/09annotationtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyFragmentSpace.iml" filepath="$PROJECT_DIR$/MyFragmentSpace.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
