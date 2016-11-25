@@ -1,1 +1,1 @@
-include ':app', ':01drawerlayoutdemo', ':02navigationviewdemo', ':03coordinatorlayoutdemo', ':04appbarlayoutdemo', ':05collapsingtoolbarlayoutdemo', ':06tablayout', ':07swipebackfragment', ':08daggerdemo', ':09annotationtest'
+include ':app', ':01drawerlayoutdemo', ':02navigationviewdemo', ':03coordinatorlayoutdemo', ':04appbarlayoutdemo', ':05collapsingtoolbarlayoutdemo', ':06tablayout', ':07swipebackfragment', ':08daggerdemo', ':09annotationtest', ':10toucheventtest', ':11dynamicproxydemo', ':12xutilsdemo', ':13classtest'

@@ -11,6 +11,10 @@
       <module fileurl="file://$PROJECT_DIR$/07swipebackfragment/07swipebackfragment.iml" filepath="$PROJECT_DIR$/07swipebackfragment/07swipebackfragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/08daggerdemo/08daggerdemo.iml" filepath="$PROJECT_DIR$/08daggerdemo/08daggerdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/09annotationtest/09annotationtest.iml" filepath="$PROJECT_DIR$/09annotationtest/09annotationtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10toucheventtest/10toucheventtest.iml" filepath="$PROJECT_DIR$/10toucheventtest/10toucheventtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11dynamicproxydemo/11dynamicproxydemo.iml" filepath="$PROJECT_DIR$/11dynamicproxydemo/11dynamicproxydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12xutilsdemo/12xutilsdemo.iml" filepath="$PROJECT_DIR$/12xutilsdemo/12xutilsdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13classtest/13classtest.iml" filepath="$PROJECT_DIR$/13classtest/13classtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyFragmentSpace.iml" filepath="$PROJECT_DIR$/MyFragmentSpace.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

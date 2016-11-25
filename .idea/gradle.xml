@@ -17,6 +17,10 @@
             <option value="$PROJECT_DIR$/07swipebackfragment" />
             <option value="$PROJECT_DIR$/08daggerdemo" />
             <option value="$PROJECT_DIR$/09annotationtest" />
+            <option value="$PROJECT_DIR$/10toucheventtest" />
+            <option value="$PROJECT_DIR$/11dynamicproxydemo" />
+            <option value="$PROJECT_DIR$/12xutilsdemo" />
+            <option value="$PROJECT_DIR$/13classtest" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
@@ -32,6 +36,10 @@
             <option value="$PROJECT_DIR$/07swipebackfragment" />
             <option value="$PROJECT_DIR$/08daggerdemo" />
             <option value="$PROJECT_DIR$/09annotationtest" />
+            <option value="$PROJECT_DIR$/10toucheventtest" />
+            <option value="$PROJECT_DIR$/11dynamicproxydemo" />
+            <option value="$PROJECT_DIR$/12xutilsdemo" />
+            <option value="$PROJECT_DIR$/13classtest" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
